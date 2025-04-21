@@ -57,7 +57,7 @@ Retorna a lista de instituições no formato chave e valor.
 [
   {
     "chave": "1",
-    "valor": "Banco Tal",
+    "valor": "Banco Tal"
   },
   {
     "chave": "2",
@@ -76,7 +76,7 @@ Retorna os convênios disponíveis no formato chave e valor.
 [
   {
     "chave": "1",
-    "valor": "Convenio X",
+    "valor": "Convenio X"
   },
   {
     "chave": "2",
