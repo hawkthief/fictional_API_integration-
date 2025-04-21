@@ -117,7 +117,9 @@ Os atributos `instituicoes`, `convenios` e `parcela` são opcionais.
 ]
 ```
 
-### Postman Collection:
+---
+
+## Postman Collection:
 
 O arquivo `Simulação de Empréstimo API.postman_collection.json` foi adicionado à raiz do projeto.
 
