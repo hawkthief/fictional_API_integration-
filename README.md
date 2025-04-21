@@ -16,8 +16,7 @@ Os dados são lidos de arquivos `.json` localizados em:
     ```json
     {
         "1": "Banco Tal",
-        "2": "Outro Banco",
-        (...)
+        "2": "Outro Banco"
     }
     ```
 - `convenios.json`
@@ -25,8 +24,7 @@ Os dados são lidos de arquivos `.json` localizados em:
     ```json
     {
       "1": "Convenio X",
-      "2": "Convenio Y",
-      (...)
+      "2": "Convenio Y"
     }
     ```
 - `taxas.json`
@@ -37,15 +35,14 @@ Os dados são lidos de arquivos `.json` localizados em:
         "instituicao_id": "1",
         "convenio_id": "1",
         "parcelas": 6,
-        "coeficiente": 0.1862,
+        "coeficiente": 0.1862
       },
       {
         "instituicao_id": "2",
         "convenio_id": "2",
         "parcelas": 15,
         "coeficiente": 0.0826
-      },
-      (...)
+      }
     ]
     
     ```
